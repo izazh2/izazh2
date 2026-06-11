@@ -1,4 +1,4 @@
-## Olá! Eusou Isabelly Cristina
+## Olá! Eu sou Isabelly Cristina
 
 <div align="center">
   <a href="https://github.com/izazh2">
