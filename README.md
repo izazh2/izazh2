@@ -6,8 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izazh2&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/izazh2/izazh2/output/github-contribution-grid-snake.svg)
- </div>
+![Snake animation](https://raw.githubusercontent.com/izazh2/izazh2/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
