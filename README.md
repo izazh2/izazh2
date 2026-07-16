@@ -1,12 +1,12 @@
 ## Olá! Eu sou Isabelly Cristina
 
 <div align="center">
-  <a href="https://github.com/isazh2">
+  <a href="https://github.com/izazh2">
   <img height="180em" src="./profile/stats.svg"/>
   <img height="180em" src="./profile/top-langs.svg"/>
 </div>
  
-  ![Snake animation](https://raw.githubusercontent.com/isazh2/isazh2/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/izazh2/izazh2/output/github-contribution-grid-snake.svg)
  </div>
  
 <!--
