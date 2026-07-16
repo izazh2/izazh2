@@ -6,7 +6,8 @@
   <img height="180em" src="./profile/top-langs.svg"/>
 </div>
  
-  ![cobra](https://raw.githubusercontent.com/izazh2/izazh2/output/dist/github-contribution-grid-snake-dark.svg)
+  ![cobra](https://raw.githubusercontent.com/izazh2/izazh2/output/github-contribution-grid-snake-dark.svg)
+  
  </div>
  
 <!--
