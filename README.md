@@ -6,7 +6,7 @@
   <img height="180em" src="./profile/top-langs.svg"/>
 </div>
  
-  ![Snake animation](https://raw.githubusercontent.com/isazh1/isazh1/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/isazh2/isazh2/output/github-contribution-grid-snake.svg)
  </div>
  
 <!--
