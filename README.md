@@ -1,7 +1,7 @@
 ## Olá! Eu sou Isabelly Cristina
 
 <div align="center">
-  <a href="https://github.com/isazh1">
+  <a href="https://github.com/isazh2">
   <img height="180em" src="./profile/stats.svg"/>
   <img height="180em" src="./profile/top-langs.svg"/>
 </div>
